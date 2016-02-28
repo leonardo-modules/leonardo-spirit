@@ -1,0 +1,5 @@
+[run]
+source = leonardo_spirit
+omit =
+    *migrations*
+    leonardo_spirit/__init__.py

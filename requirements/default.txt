@@ -1,0 +1,1 @@
+django-spirit==0.4.7
